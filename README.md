@@ -14,6 +14,8 @@ Recreation of an Amazon-style product card using **pure HTML & CSS**. This mini 
 
 ### Desktop View
 ![Desktop Screenshot](image.png)
+![image](https://github.com/user-attachments/assets/7c771d47-9f5d-48a6-a12b-2ec45a8f3649)
+
 
 ### Mobile View
 ![Mobile Screenshot](screenshots/mobile-view.png)
