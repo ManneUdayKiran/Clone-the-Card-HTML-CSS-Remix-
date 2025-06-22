@@ -13,7 +13,7 @@ Recreation of an Amazon-style product card using **pure HTML & CSS**. This mini 
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](image.jpg)
+![Desktop Screenshot](image.png)
 
 ### Mobile View
 ![Mobile Screenshot](screenshots/mobile-view.png)
